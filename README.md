@@ -1,3 +1,3 @@
-# Your blog
+# Seeking Jarvis
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+A blog on learnings on deep learning, with a special interest in making machines more human.
