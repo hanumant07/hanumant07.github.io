@@ -1,7 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+![Welcome to Seeking Jarvis](images/wp1913248-jarvis-wallpapers.png)
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## About
+
+Learning how to make machines learn. Current interest in generative modeling. Here you will find notes on relevant papers, overview of topics and even general musings
